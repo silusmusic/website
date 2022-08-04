@@ -1,1 +1,46 @@
-theme: jekyll-theme-midnight
+# Silus Music .com WebSite Proposal 18:18 pm  2022/08/04
+title: 'Silus Music'  
+subtitle: 'by Silus Wild Musician'
+email: 'siluswild@gmail.com'
+description: 'A new targets for a new era.'
+baseurl: '/'
+url: 'https://silusmusic.github.io/website'
+author: 'Silus Wild, Musician-Filmmaker-Programmer-Cooker-Guitarist'
+street_address: 'Some place near of the sea..'
+city: 'Palma de Mallorca'
+state: 'Balearic Islands'
+zip_code: '07191'
+country: 'Spain'
+phone: '(123) 456-7890'
+
+# Baldosas que componen el Home-Page
+tiles-source: pages
+tiles-count: 6
+
+
+socials:
+  GitHub: 'https://github.com/silusmusic'
+  Spotify:  'https://open.spotify.com/artist/0mkaHAEaP1EVa2YNlOLSi7?si=-BtSHU_oQdqF4BdEZxKbtQ&nd=1'
+  Google-Plus: 
+  Youtube:   'https://www.youtube.com/channel/UCigiGMOD_AIBp_Kx1oonG7w'
+  Instagram: 'https://www.instagram.com/siluswild/'
+  LinkedIn:  'https://es.linkedin.com/in/siluswild'
+  Twitter:   'https://twitter.com/siluswild'
+  Facebook:  'https://www.facebook.com/SilusWild/'
+  SoundCloud: 'https://soundcloud.com/siluswild'
+  SongTradr:  'https://www.songtradr.com/siluswild'
+  Amazon:     'https://music.amazon.es/artists/B08NZ998GG/silus-wild'
+  Slack:      ''
+
+
+# Variables de construccion
+markdown: kramdown
+
+# Estilo general de pagina-web
+sass:
+  style: compressed
+
+exclude:
+- "*.gemspec"
+- LICENSE.md
+- README.md 

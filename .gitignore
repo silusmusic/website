@@ -1,0 +1,11 @@
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+
+CONTRIBUTING.md
+Gemfile
+Gemfile.lock
+jekyll-theme-midnight.gemspec
+
