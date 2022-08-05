@@ -3,15 +3,21 @@ title: 'Silus Music'
 subtitle: 'by Silus Wild Musician'
 email: 'siluswild@gmail.com'
 description: 'A new targets for a new era.'
-baseurl: '/website'
-url: 'https://silusmusic.github.io'
-author: 'Silus Wild, Musician-Filmmaker-Programmer-Cooker-Guitarist'
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-midnight
+
+# baseurl: ''
+url: 'https://silusmusic.github.io/website/'
+author: 'Silus Wild'
 street_address: 'Some place near of the sea..'
 city: 'Palma de Mallorca'
 state: 'Balearic Islands'
 zip_code: '07191'
 country: 'Spain'
 phone: '(123) 456-7890'
+lang: 'us-EN'
+
 
 # Baldosas que componen el Home-Page
 tiles-source: pages

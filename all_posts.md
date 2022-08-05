@@ -1,12 +1,12 @@
 ---
 layout: allposts
-title: All Albums
-landing-title: 'All Albums'
+title: 'All Posts and Albums'
+landing-title: 'All posts & Albums'
 nav-menu: true
-description: null
-image: null
-author: null
-show_tile: false
+description: 'All about publicated songs and works..'
+image: assets/images/echoesTop.jpg
+author: 'Silus Wild'
+show_tile: true
 ---
 
-<h1>All Albums</h1>
+<h1>All Posts and Albums</h1>

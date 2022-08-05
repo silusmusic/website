@@ -28,7 +28,7 @@
 			@include vendor('transition', 'opacity #{_duration(banner)} ease');
 			@include vendor('transition-delay', '0.75s');
 			@include vendor('pointer-events', 'none');
-			background-color: _palette(bg);
+			background-color: none; // _palette(bg);
 			content: '';
 			display: block;
 			height: 100%;
@@ -46,7 +46,7 @@
 
 		> .inner {
 			@include vendor('transition', (
-				'opacity 1.5s ease',
+				'opacity 1.9s ease',
 				'transform 0.5s ease-out',
 				'filter 0.5s ease',
 				'-webkit-filter 0.5s ease'

@@ -2,9 +2,9 @@
 layout: home
 title: Home
 landing-title: 'Hi, my name is Silus'
-description: null
-image: null
-author: null
+description: Silus Wild' Music and Personal Post
+image: assert/images/banner.png
+author: Silus Wild
 show_tile: false
 ---
 
