@@ -6,7 +6,7 @@ nav-menu: true
 description: 'All about publicated songs and works..'
 image: assets/images/echoesTop.jpg
 author: 'Silus Wild'
-show_tile: true
+show_tile: false
 ---
 
 <h1>All Posts and Albums</h1>

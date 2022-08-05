@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Adventures
 image: assets/images/pic01.jpg
 nav-menu: true
