@@ -1,5 +1,5 @@
 ---
-title: Musician and, sometimes Music Producer
+title: Musician, and sometimes music producer
 layout: landing
 description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
 image: assets/images/pic07.jpg
