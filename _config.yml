@@ -8,7 +8,7 @@ google_analytics:
 theme: jekyll-theme-midnight
 
 # baseurl: ''
-url: 'https://silusmusic.github.io/website/'
+# url: 'https://silusmusic.github.io/website/' # Establecido por GitHub-Pages.
 author: 'Silus Wild'
 street_address: 'Some place near of the sea..'
 city: 'Palma de Mallorca'
